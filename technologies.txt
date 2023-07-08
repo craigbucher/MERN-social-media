@@ -1,0 +1,28 @@
+M: Mongo database
+E: expressJS
+R: React
+N: node.js
+
+Frontend:
+React
+React router for navigation (react-router-dom@6)
+Redux - state management (react-redux)
+Formik & yup - forms and form validation (formik, yup)
+Redux toolkit - wrapper around redux that makes it easier to use (@reduxjs/toolkit)
+Redux with Persistent - store in local storage, if need to (redux-persist)
+React dropzone - image uploads (react-dropzone)
+MaterialUI - page design (@mui/material, @emotion/react, @emotion/styled @mui/icons-material)
+
+Backend:
+node.js - runtime
+Express.js - backend framework
+Mongoose - managing mongo DB
+JSON web token (JWT) - authentication
+Multer - file upload (multer multer-gridfs-storage)
+body-parser - process request body
+bcrypt - password encryption
+cors - cross origin requests
+dotenv - to use environment variables
+gridfs-stream - file upload
+helmet - request safety
+morgan - logging
