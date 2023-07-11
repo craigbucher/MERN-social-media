@@ -1,0 +1,7 @@
+- change profile photo
+- change password
+- add new comments?
+- modify/delete old comment?
+- modify/delete posts
+- delete account?
+- 
